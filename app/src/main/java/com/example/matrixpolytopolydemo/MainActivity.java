@@ -52,7 +52,7 @@ public class MainActivity extends AppCompatActivity {
 
     public PolyToPolyView(Context context) {
       super(context);
-      mBitmap = BitmapFactory.decodeResource(getResources(), R.drawable.aa);
+      mBitmap = BitmapFactory.decodeResource(getResources(), R.drawable.lufei);
 
       // 折叠后的总宽度
       mTranslateDis = (int) (mBitmap.getWidth() * mFactor);
