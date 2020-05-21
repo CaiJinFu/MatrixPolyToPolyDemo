@@ -19,6 +19,13 @@
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
+    <activity android:name=".MatrixPolyToPolyActivity">
+
+    </activity>
+    <activity android:name=".MatrixPolyToPolyWithShadowActivity">
+
+    </activity>
+    <activity android:name=".FoldActivity" />
   </application>
 
 </manifest>
